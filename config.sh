@@ -77,7 +77,6 @@ set_permissions() {
   # set_perm  $MODPATH/system/etc/mixer_paths.xml
   # the permissions are --- rw- r-- r-- which is 0644
   set_perm  $MODPATH/system/vendor/etc/mixer_paths_tasha.xml       0       0       0644
-  set_perm  $MODPATH/system/vendor/etc/mixer_paths_letv.xml       0       0       0644
 }
 
 ##########################################################################################
