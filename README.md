@@ -1,4 +1,4 @@
-# Dual-Speaker-x2
+# h850micboost
 Magisk module to boost sound (video recording & handsfree calling)
 
 ### What does it do?

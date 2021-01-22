@@ -41,10 +41,7 @@ LATESTARTSERVICE=false
 
 print_modname() {
   ui_print "*******************************"
-  ui_print "DualSpeaker Magisk Template by Dante63"
-  ui_print "*******************************"
-  ui_print "*******************************"
-  ui_print "Dual Speaker Mod for Le Max 2 by Jeis (Matteo Cerri)"
+  ui_print "h850micboost Magisk Mod by zeekoe"
   ui_print "*******************************"
 }
 
